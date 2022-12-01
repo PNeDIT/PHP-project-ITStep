@@ -1,0 +1,6 @@
+Проект на Петър Недялков по PHP
+
+- usernames and passwords:
+- petar -> admin
+- elonmusk -> elonmusk
+- останалите са пароли са по същия начин еднакви с username-а
